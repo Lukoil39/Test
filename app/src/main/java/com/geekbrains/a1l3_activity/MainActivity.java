@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity implements IMainActivityView
             }
         });
 
-        //recreate();
+
     }
 
     @Override
